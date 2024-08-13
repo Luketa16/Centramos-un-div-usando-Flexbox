@@ -1,0 +1,24 @@
+.contain-flex {
+    background-color: aqua;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.contain-flex div {
+    padding: 20px;
+    background-color: red;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+
+/* justify-content: center; /*alinea la caja horizontalmente*/
+/* align-items: center;    alinea la caja verticalmente */ 
+
